@@ -34,3 +34,7 @@ codex plugin add babysit@b-relay
 ```
 
 The `watch` tests run with `python3 tests/test-watch.py` (Python 3.10+, macOS or Linux).
+
+## License
+
+[Apache 2.0](LICENSE).
