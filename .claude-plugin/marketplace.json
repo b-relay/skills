@@ -1,0 +1,14 @@
+{
+  "name": "b-relay",
+  "description": "b-relay's babysit agent plugin, mirrored from a private repository.",
+  "owner": {
+    "name": "b-relay"
+  },
+  "plugins": [
+    {
+      "name": "babysit",
+      "source": "./plugins/babysit",
+      "description": "Babysit agent work: review has independent agents check work you implemented before it is called done, and until keeps a long task going until a time or condition, then stops cleanly."
+    }
+  ]
+}

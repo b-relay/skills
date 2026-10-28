@@ -1,0 +1,9 @@
+{
+  "name": "babysit",
+  "version": "0.2.0",
+  "description": "Babysit agent work: review has independent agents check work you implemented before it is called done, and until keeps a long task going until a time or condition, then stops cleanly.",
+  "author": {
+    "name": "b-relay"
+  },
+  "repository": "https://github.com/b-relay/fleet"
+}

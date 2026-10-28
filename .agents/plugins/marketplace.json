@@ -1,0 +1,20 @@
+{
+  "name": "b-relay",
+  "interface": {
+    "displayName": "b-relay"
+  },
+  "plugins": [
+    {
+      "name": "babysit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/babysit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
