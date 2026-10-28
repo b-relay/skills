@@ -37,4 +37,4 @@ The `watch` tests run with `python3 tests/test-watch.py` (Python 3.10+, macOS or
 
 ## License
 
-[Apache 2.0](LICENSE).
+[MIT No Attribution](LICENSE): use it however you like, with no need to credit anyone.
